@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Cesar Augusto and I'm a Brazilian Full Stack Web Developer
+My name is Cesar Augusto and I'm a Brazilian Full Stack Developer
 
 I’m currently living in Sydney (Australia) working on my personal projects to apply the things I'm learning. 
 
